@@ -13,6 +13,7 @@ section{
     align-items: center;
 }
 .clock {
+   
     width: 700px;
     height: 250px;
     background-color: rgba(255, 255, 255, 0.05);
